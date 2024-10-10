@@ -10,7 +10,7 @@
 <p>- I plan to make a Video game that follows the themes of Mental Health Topics</p>
 
 <h3 align="left">Projects</h3>
-<a href="https://lancanon.github.io/itis3135/">itis3135 projects</a>
+<a href="https://webpages.charlotte.edu/aveerade/itis3135/">itis3135 projects</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
