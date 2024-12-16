@@ -1,8 +1,8 @@
 
 <h1 align="left">Hey, my name is Audy! </h1>
 <h3 align="left">About Me</h3>
-<p>- I'm a student with a focus of Software Engineer</p>
-<p>- I’m currently learning Fullstack development
+<p>- Bachelors in Computer Science at University of North Carolina - Charlotte</p>
+<p>- Heavily interested in Fullstack and infra
 </p>
 
 <h3 align="left">Goals & Objectives:</h3>
